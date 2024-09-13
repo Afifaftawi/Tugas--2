@@ -1,9 +1,9 @@
-# Meminta input dari pengguna
-bilangan1 = float(input("Masukkan bilangan pertama: "))
-bilangan2 = float(input("Masukkan bilangan kedua: "))
+# Mendefinisikan dua bilangan
+bilangan1 = 5
+bilangan2 = 7
 
 # Menjumlahkan kedua bilangan
-jumlah = bilangan1 + bilangan2
+hasil = bilangan1 + bilangan2
 
 # Menampilkan hasil
-print("Hasil penjumlahan:", jumlah)
+print("Hasil penjumlahan:", hasil)
